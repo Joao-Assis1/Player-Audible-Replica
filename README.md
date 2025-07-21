@@ -15,3 +15,12 @@ Uma réplica fiel e responsiva do player de áudio da plataforma [Audible](https
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** + **CSS3** + **JavaScript** + **React.Js**
+
+
+## 🧠 Aprendizados
+
+ - Durante o desenvolvimento deste projeto, aprendi e reforcei conhecimentos sobre:
+ - Manipulação de áudio via JavaScript
+ - Controle de eventos e estado do player
+ - Design responsivo e boas práticas de UI/UX
+ - Modularização de código para manutenção futura
